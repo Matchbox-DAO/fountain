@@ -14,7 +14,7 @@ Read through all the instructions, solve the puzzle, join the Discord, and level
 ## Instructions
 - Read through the game.cairo, levels.cairo, and additional contracts
 - Use any programming language or tool of your choice to find a unique solution to any of the levels. Can you beat the current high score?
-- Register your Starknet (Argent X Wallet) address through the SNS contract so your name will appear on the leaderboard
+- Register your Starknet (Argent X or [Braavos](https://braavos.app/download) Wallet) address through the SNS contract so your name will appear on the leaderboard
 - Submit your solution through the puzzle front end or contract on Voyager
 - Join the Matchbox Discord to meet other puzzle solvers, Starknet devs etc. Give us your feedback on the first iteration, help us build future iterations and different puzzles! 
 
